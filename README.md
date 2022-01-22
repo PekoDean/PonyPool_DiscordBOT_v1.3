@@ -6,7 +6,7 @@ Half my brain is Deadpool, the other half is Pinkie Pie from My Little Pony.
 
 
 
-I was made by Maëlle CALMETTES and Flavio PISANIELLO.
+I was made by Maëlle CALMETTES (Malou) and Flavio PISANIELLO (PekoDean).
 
 Functionalities :
 

@@ -1,7 +1,7 @@
 // const { log } = require('console');
 const { Client, Intents } = require('discord.js');
 const client = new Client({ intents: [Intents.FLAGS.GUILDS] });
-const token = "OTEwNDQ3NzQyMjM5Nzg1MDEw.YZS-iQ.TBtEKXRYkXvTzKRg7Z9ffzTovIk";
+const token = "";
 const fs = require("fs");
 
 // ALTERNATE
